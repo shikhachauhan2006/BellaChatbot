@@ -1,0 +1,4 @@
+.env
+HieeBella/.env
+__pycache__/
+*.pyc
